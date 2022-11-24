@@ -8,4 +8,7 @@
 8) git add . :- add everything(every files and folders) into staging area
 PS :- you also can write individual file or folder name instead of "."
 9) git commit -m "MESSAGE" :- add a message to your commit
-
+10) git restore --staged names.txt :- to restore the file from stage 
+11) git log :- to see the history 
+12) rm -rf names.txt :- to delete names.txt file
+13) git reset hashID :- to reset commits
