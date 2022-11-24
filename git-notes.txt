@@ -15,3 +15,6 @@ PS :- you also can write individual file or folder name instead of "."
 14) git stash :- move unwanted files to backStage 
 15) git stash pop :- move files back to staging area
 16) git stash clear :- to clear backstage 
+17) git remote add origin https://github.com/Divy97/divyParekh-git.git :- adding github repository link
+18) git remote -v :- show attached folders
+19) git push origin master :- to push the changes into github repo
