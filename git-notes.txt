@@ -1,0 +1,8 @@
+1) ls :- list all the files and directories
+2) mkdir :- make a directory 
+3) cd :- change directory 
+4) git init :- initialize empty repository 
+5) ls -a :- show hidden files 
+6) touch fileName :- to create a file 
+7) git status :- track the changes in the repository
+8) git add. :- add everything(every files and folders) into staging area
