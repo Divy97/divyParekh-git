@@ -5,4 +5,7 @@
 5) ls -a :- show hidden files 
 6) touch fileName :- to create a file 
 7) git status :- track the changes in the repository
-8) git add. :- add everything(every files and folders) into staging area
+8) git add . :- add everything(every files and folders) into staging area
+PS :- you also can write individual file or folder name instead of "."
+9) git commit -m "MESSAGE" :- add a message to your commit
+
