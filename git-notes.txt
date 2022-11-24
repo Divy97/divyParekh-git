@@ -12,3 +12,6 @@ PS :- you also can write individual file or folder name instead of "."
 11) git log :- to see the history 
 12) rm -rf names.txt :- to delete names.txt file
 13) git reset hashID :- to reset commits
+14) git stash :- move unwanted files to backStage 
+15) git stash pop :- move files back to staging area
+16) git stash clear :- to clear backstage 
